@@ -56,3 +56,4 @@ Our terms of use can be found at https://opensource.fb.com/legal/terms.
 Our privacy policy can be found at https://opensource.fb.com/legal/privacy.
 
 Copyright © Meta Platforms, Inc
+Created by Jason Scott Heise

@@ -57,4 +57,4 @@ Our privacy policy can be found at https://opensource.fb.com/legal/privacy.
 
 Copyright © Meta Platforms, Inc
 Created by Jason Scott Heise
-Owned by Jason Scott Heise & Mark Zuckerberg 
+Owned by Jason Scott Heise & Elon Musk https://www.x.com
